@@ -1,0 +1,122 @@
+{
+  "categorias": {
+    "saludos_y_cortesia": [
+      { "id": 1, "nombre": "Hola", "tipo": "Saludo" },
+      { "id": 2, "nombre": "Buenos días", "tipo": "Saludo" },
+      { "id": 3, "nombre": "Buenas tardes", "tipo": "Saludo" },
+      { "id": 4, "nombre": "Buenas noches", "tipo": "Saludo" },
+      { "id": 5, "nombre": "Gracias", "tipo": "Cortesía" },
+      { "id": 6, "nombre": "Por favor", "tipo": "Cortesía" },
+      { "id": 7, "nombre": "De nada", "tipo": "Cortesía" },
+      { "id": 8, "nombre": "Perdón", "tipo": "Cortesía" },
+      { "id": 9, "nombre": "Mucho gusto", "tipo": "Saludo" },
+      { "id": 10, "nombre": "Adiós", "tipo": "Saludo" }
+    ],
+    "preguntas_y_estados": [
+      { "id": 11, "nombre": "¿Cómo estás?", "tipo": "Pregunta" },
+      { "id": 12, "nombre": "¿Qué?", "tipo": "Pregunta" },
+      { "id": 13, "nombre": "¿Dónde?", "tipo": "Pregunta" },
+      { "id": 14, "nombre": "¿Cuándo?", "tipo": "Pregunta" },
+      { "id": 15, "nombre": "Bien", "tipo": "Estado" },
+      { "id": 16, "nombre": "Mal", "tipo": "Estado" },
+      { "id": 17, "nombre": "Más o menos", "tipo": "Estado" },
+      { "id": 18, "nombre": "Feliz", "tipo": "Emoción" },
+      { "id": 19, "nombre": "Triste", "tipo": "Emoción" },
+      { "id": 20, "nombre": "Enojado", "tipo": "Emoción" }
+    ],
+    "sector_salud_urgencias": [
+      { "id": 21, "nombre": "Ayuda", "tipo": "Urgencia" },
+      { "id": 22, "nombre": "Me duele", "tipo": "Síntoma" },
+      { "id": 23, "nombre": "Doctor", "tipo": "Salud" },
+      { "id": 24, "nombre": "Hospital", "tipo": "Salud" },
+      { "id": 25, "nombre": "Medicina", "tipo": "Salud" },
+      { "id": 26, "nombre": "Enfermo", "tipo": "Síntoma" },
+      { "id": 27, "nombre": "Accidente", "tipo": "Urgencia" },
+      { "id": 28, "nombre": "Sangre", "tipo": "Síntoma" },
+      { "id": 29, "nombre": "Respirar", "tipo": "Salud" },
+      { "id": 30, "nombre": "Emergencia", "tipo": "Urgencia" }
+    ],
+    "colores": [
+      { "id": 31, "nombre": "Rojo", "hex": "#FF0000" },
+      { "id": 32, "nombre": "Azul", "hex": "#0000FF" },
+      { "id": 33, "nombre": "Verde", "hex": "#008000" },
+      { "id": 34, "nombre": "Amarillo", "hex": "#FFFF00" },
+      { "id": 35, "nombre": "Blanco", "hex": "#FFFFFF" },
+      { "id": 36, "nombre": "Negro", "hex": "#000000" },
+      { "id": 37, "nombre": "Rosa", "hex": "#F06292" },
+      { "id": 38, "nombre": "Morado", "hex": "#800080" },
+      { "id": 39, "nombre": "Café", "hex": "#4B2C20" },
+      { "id": 40, "nombre": "Gris", "hex": "#808080" }
+    ],
+    "abecedario_lsm": [
+      { "id": 41, "nombre": "A", "tipo": "Letra" },
+      { "id": 42, "nombre": "B", "tipo": "Letra" },
+      { "id": 43, "nombre": "C", "tipo": "Letra" },
+      { "id": 44, "nombre": "D", "tipo": "Letra" },
+      { "id": 45, "nombre": "E", "tipo": "Letra" },
+      { "id": 46, "nombre": "F", "tipo": "Letra" },
+      { "id": 47, "nombre": "G", "tipo": "Letra" },
+      { "id": 48, "nombre": "H", "tipo": "Letra" },
+      { "id": 49, "nombre": "I", "tipo": "Letra" },
+      { "id": 50, "nombre": "J", "tipo": "Letra" },
+      { "id": 51, "nombre": "K", "tipo": "Letra" },
+      { "id": 52, "nombre": "L", "tipo": "Letra" },
+      { "id": 53, "nombre": "M", "tipo": "Letra" },
+      { "id": 54, "nombre": "N", "tipo": "Letra" },
+      { "id": 55, "nombre": "Ñ", "tipo": "Letra" },
+      { "id": 56, "nombre": "O", "tipo": "Letra" },
+      { "id": 57, "nombre": "P", "tipo": "Letra" },
+      { "id": 58, "nombre": "Q", "tipo": "Letra" },
+      { "id": 59, "nombre": "R", "tipo": "Letra" },
+      { "id": 60, "nombre": "S", "tipo": "Letra" },
+      { "id": 61, "nombre": "T", "tipo": "Letra" },
+      { "id": 62, "nombre": "U", "tipo": "Letra" },
+      { "id": 63, "nombre": "V", "tipo": "Letra" },
+      { "id": 64, "nombre": "W", "tipo": "Letra" },
+      { "id": 65, "nombre": "X", "tipo": "Letra" },
+      { "id": 66, "nombre": "Y", "tipo": "Letra" },
+      { "id": 67, "nombre": "Z", "tipo": "Letra" }
+    ],
+    "familia_y_personas": [
+      { "id": 68, "nombre": "Mamá", "tipo": "Familia" },
+      { "id": 69, "nombre": "Papá", "tipo": "Familia" },
+      { "id": 70, "nombre": "Hijo/a", "tipo": "Familia" },
+      { "id": 71, "nombre": "Abuelo/a", "tipo": "Familia" },
+      { "id": 72, "nombre": "Hermano/a", "tipo": "Familia" },
+      { "id": 73, "nombre": "Amigo", "tipo": "Relación" },
+      { "id": 74, "nombre": "Maestro", "tipo": "Educación" },
+      { "id": 75, "nombre": "Niño/a", "tipo": "Persona" }
+    ],
+    "tiempo_y_dias": [
+      { "id": 76, "nombre": "Lunes", "tipo": "Día" },
+      { "id": 77, "nombre": "Martes", "tipo": "Día" },
+      { "id": 78, "nombre": "Miércoles", "tipo": "Día" },
+      { "id": 79, "nombre": "Jueves", "tipo": "Día" },
+      { "id": 80, "nombre": "Viernes", "tipo": "Día" },
+      { "id": 81, "nombre": "Sábado", "tipo": "Día" },
+      { "id": 82, "nombre": "Domingo", "tipo": "Día" },
+      { "id": 83, "nombre": "Hoy", "tipo": "Tiempo" },
+      { "id": 84, "nombre": "Mañana", "tipo": "Tiempo" },
+      { "id": 85, "nombre": "Ayer", "tipo": "Tiempo" }
+    ],
+    "acciones_y_verbos": [
+      { "id": 86, "nombre": "Comer", "tipo": "Acción" },
+      { "id": 87, "nombre": "Beber", "tipo": "Acción" },
+      { "id": 88, "nombre": "Dormir", "tipo": "Acción" },
+      { "id": 89, "nombre": "Trabajar", "tipo": "Acción" },
+      { "id": 90, "nombre": "Estudiar", "tipo": "Acción" },
+      { "id": 91, "nombre": "Querer", "tipo": "Acción" },
+      { "id": 92, "nombre": "Ir", "tipo": "Acción" },
+      { "id": 93, "nombre": "Venir", "tipo": "Acción" },
+      { "id": 94, "nombre": "Comprar", "tipo": "Acción" },
+      { "id": 95, "nombre": "Vender", "tipo": "Acción" }
+    ],
+    "lugares_y_objetos": [
+      { "id": 96, "nombre": "Casa", "tipo": "Lugar" },
+      { "id": 97, "nombre": "Escuela", "tipo": "Lugar" },
+      { "id": 98, "nombre": "Trabajo", "tipo": "Lugar" },
+      { "id": 99, "nombre": "Tienda", "tipo": "Lugar" },
+      { "id": 100, "nombre": "Baño", "tipo": "Lugar" }
+    ]
+  }
+}
